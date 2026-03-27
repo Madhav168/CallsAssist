@@ -1,6 +1,6 @@
 {
-  "name": "CallWorkAmma",
-  "short_name": "AmmaCalls",
+  "name": "CallsAssist",
+  "short_name": "CallsAssist",
   "description": "Fast dialing tool for phone numbers.",
   "start_url": "index.html",
   "display": "standalone",
